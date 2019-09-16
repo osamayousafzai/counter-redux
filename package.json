@@ -2,7 +2,7 @@
   "name": "carb-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://osamayousafzai.github.io/age-teller/",
+  "homepage": "https://osamayousafzai.github.io/counter-redux/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
